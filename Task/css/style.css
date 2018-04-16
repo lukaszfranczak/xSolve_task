@@ -1,0 +1,15 @@
+td, tr {
+    border: 1px solid darkgray;
+    padding: 2px;
+}
+
+th {
+    border: 1px solid darkgray;
+    padding: 2px;
+    color: white;
+    background-color: grey;
+}
+
+button, input {
+    margin: 2px 0;
+}
